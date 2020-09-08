@@ -2,13 +2,13 @@
 
 ## α-FPUT chain
 
-Python code generates images that may be converted into a video using applications such as ffmpeg.
+Python code generates images that may be converted into a video using applications such as ffmpeg. Click on images to watch video on YouTube.
 
-** Low amplitude **
+### Low amplitude
 [![Watch the video](https://i.imgur.com/1gQAm5C.png)](https://youtu.be/TnYWs9nC31I)
 
-** High amplitude **
+### High amplitude
 [![Watch the video](https://i.imgur.com/Ic83xTt.png)](https://youtu.be/rzzsCiXVo3Q)
 
-** k = 4 **
+### k = 4 (low amplitude)
 [![Watch the video](https://i.imgur.com/2vcpPnU.png)](https://youtu.be/lXci4DpHrnQ)
